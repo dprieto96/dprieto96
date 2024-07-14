@@ -1,11 +1,5 @@
 # Hello! 👋 I'm Daniel Prieto Remacha
 
-<div align="center">
-  <img src="https://via.placeholder.com/150" alt="Profile of Your Name" style="border-radius:50%;">
-</div>
-
-## About Me
-
 Developer passionate about technology and open source.
 
 ## 📈 GitHub Stats
