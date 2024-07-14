@@ -15,17 +15,3 @@ Developer passionate about technology and open source.
 You can reach me at [dprietocsb@gmail.com](mailto:your-email@example.com) or on [LinkedIn]([https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/daniel-prieto-remacha/)).
 
 Thank you for visiting my profile!
-h1 {
-  color: red;
-  animation: myanimation 2s infinite;
-}
-
-@keyframes myanimation {
-  from {
-    color: red;
-  }
-  to {
-    color: yellow;
-  }
-}
-<h1>Hello world!</h1>
